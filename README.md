@@ -1,5 +1,12 @@
 SumoCollector
 --------------
+
+# Work in Progress
+I'm currently revamping the RedHat portions of this role. Once that's done I'll
+submit a PR back to the original repo. Please bear with me :)
+
+Questions and suggestions welcome.
+
 Ansible role to install SumoCollector. This role was based on wgregorian as recommended by Sumo staff.  That was a native install using yum.  
 We now support yum, tarball and docker installs.  Hot patches would likely be first available via tarball for testing bugfixes with sumologic team.
 
